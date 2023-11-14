@@ -1,13 +1,13 @@
-import "../global.css";
-import { Inter } from "next/font/google";
-import LocalFont from "next/font/local";
-import { Metadata } from "next";
+import '../global.css';
+import { Inter } from 'next/font/google';
+import LocalFont from 'next/font/local';
+import { Metadata } from 'next';
 import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "chronark.com",
-    template: "%s | chronark.com",
+    default: "notnotsez's portfolio",
+    template: "%s | notnotsez",
   },
   description: "Co-founder of unkey.dev and founder of planetfall.io",
   openGraph: {
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
   },
   icons: {
-    shortcut: "/favicon.png",
+    shortcut: "/mfer.png",
   },
 };
 const inter = Inter({
