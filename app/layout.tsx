@@ -9,13 +9,13 @@ export const metadata: Metadata = {
     default: "notnotsez's portfolio",
     template: "%s | notnotsez",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: "Data engineer learning full stack dev. Follow me on my journey into Web3. ",
   openGraph: {
-    title: "chronark.com",
+    title: "notnotsez-portfolio.vercel.app/",
     description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
-    url: "https://chronark.com",
-    siteName: "chronark.com",
+      "Data engineer learning full stack dev. Follow me on my journey into Web3.",
+    url: "https://notnotsez-portfolio.vercel.app/",
+    siteName: "notnotsez-portfolio.vercel.app/",
     images: [
       {
         url: "https://chronark.com/og.png",
