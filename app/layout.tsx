@@ -18,8 +18,8 @@ export const metadata: Metadata = {
     siteName: "notnotsez-portfolio.vercel.app/",
     images: [
       {
-        url: "https://chronark.com/og.png",
-        width: 1920,
+        url: "https://i.seadn.io/gcs/files/155fb4f7d0ab4b08aeccec1422c494b3.png?auto=format&dpr=1&w=1000",
+        width: 1080,
         height: 1080,
       },
     ],
